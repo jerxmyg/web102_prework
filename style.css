@@ -19,6 +19,12 @@ body {
     margin-top: -10px;
 }
 
+.stats-container :hover {
+    align-items: center;
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
+}
+
 .stats-container {
     display: flex;
 }
@@ -73,3 +79,9 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.clicked{
+    background-color:black;
+    color:white;
+}
+
