@@ -34,7 +34,7 @@ GIF created with Kap!
 
 ## Notes
 
-I was stuck on step 3 of challenge 2 for a some time becuase of a syn tax error that didn't allow me to put in the right key until I realized that I needed to exculde the punctuation mark so that was fun. On a serious note, it has defintely been a fun journey for me and I look forward to this course this semester!
+I was stuck on step 3 of challenge 2 for a some time becuase of a syntax error which was funny. On a serious note, it has definitely been a fun journey for me and I look forward to this course this semester!
 
 ## License
 
